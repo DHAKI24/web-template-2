@@ -1,0 +1,439 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container
+{
+	width: 900px;
+	height: 1100px;
+	background-image: linear-gradient(#653d7c, #341745);
+	margin: 0 auto;
+	padding: 0 50px;
+}
+
+/*section1*/
+/*section1*/
+/*section1*/
+/*section1*/
+/*section1*/
+
+
+header
+{
+	height: 130px;
+	width: 900px;
+}
+
+
+.bulb
+{
+	width: 40px;
+	margin-top: 20px;
+	float: left;
+	
+}
+
+.box1
+{
+	font-family: arail;
+	margin: 30px 0 0 15px;
+	
+}
+
+.tagline
+{
+	font-family: arial;
+	font-size: 40px;
+	font-weight: 300;
+	color: white;
+	margin: 35px 0 0 12px;
+	float: left;
+	
+}
+
+.tagline span 
+{
+	font-size: 22px;
+	margin-left: 3px;
+}
+
+
+.box2
+{
+	float: right;
+	margin: 55px 15px 0 0;
+	
+}
+
+.search, .home, .cloud 
+{
+	width:20px;
+}
+
+.home, .search
+{
+	margin-right: 40px;
+}
+
+
+
+
+/*section 2*/
+/*section 2*/
+/*section 2*/
+/*section 2*/
+/*section 2*/
+
+
+
+.gallery
+{
+	width: 900px;
+	height: 300px;
+	background-color: blue;
+	border-radius: 35px;
+	overflow: hidden;
+	position: relative;
+	z-index: 10;
+}
+
+
+.brain
+{
+	margin: 0 auto;
+	width:900px;
+	height:300px;
+}
+
+
+
+/*section 3*/
+/*section 3*/
+/*section 3*/
+/*section 3*/
+/*section 3*/
+
+
+.lists
+{
+	width: 900px;
+	background-color: green;
+	text-align: right;
+	padding: 50px 0 10px 0;
+	border-radius: 20px;
+	position: relative;
+	bottom: 40px;
+}
+
+
+.guide nav ul li
+{
+	display: inline;
+	
+}
+
+.guide nav ul li a
+{
+	text-decoration: none;
+	color: white;
+	margin-right: 68px;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*section 4*/
+/*section 4*/
+/*section 4*/
+/*section 4*/
+/*section 4*/
+
+
+/*left contents*/
+
+.welcome
+{
+	width: 860px;
+	height: 170px;
+	border-radius: 15px;
+	padding: 30px 20px;
+	background-image: linear-gradient(#58316e, #341745);
+}
+
+.side1
+{
+	width: 600px;
+	float: left;
+}
+
+.img
+{
+	width: 200px;
+	height: 180px;
+	float: left;
+	border-radius: 20px;
+	margin-left: 20px;
+}
+
+
+
+
+.line1
+{
+	font-family: arial;
+	font-size: 30px;
+	color: white;
+	float: left;
+	width: 360px;
+	margin: 35px 0 0 20px;
+}
+
+
+.line2
+{
+	font-size: 12px;
+	margin-top: 15px;
+}
+
+.line3
+{
+
+	font-size: 12px;
+	float: left;
+	color: white;
+}
+
+.line3 nav li a 
+{
+	color: white;
+	
+}
+
+
+/*right content*/
+
+.side2
+{
+	width: 260px;
+	float: left;
+	font-family: arial;
+}
+
+.profile
+{
+	font-size: 20px;
+	color: white;
+	font-size: 30px;
+	margin: 35px 0 0 0;
+	
+}
+
+.CD
+{
+	width: 90px;
+	float: left;
+}
+
+
+.tab1
+{
+	float: left;
+	margin-left: 20px;
+	margin-top: 22px;
+}
+
+
+.tab2
+{
+	float: left;
+	margin-top: 7px;
+}
+
+.tab2 ul
+{
+	color: white;
+	font-size: 12px;
+	font-family: arial;
+	line-height: 20px;
+}
+
+.tab2 li a
+{
+	color: white;
+}
+
+
+
+/*section 5*/
+/*section 5*/
+/*section 5*/
+/*section 5*/
+/*section 5*/
+
+
+
+.work
+{
+	width: 870px;
+	height: 190px;
+	padding: 15px;
+	background-color:#D697E9;
+	border-radius: 15px;
+	background-image: linear-gradient(#653988, #663e7d);
+}
+
+.start
+{
+	width:290px;
+	float: left;
+	
+
+}
+
+.idea1
+{
+	width: 180px;
+	height: 80px;
+	border-radius: 20px;
+	margin-left: 20%;
+	
+}
+.downbox
+{
+	width: 290px;
+	height:100px;
+}
+
+button
+{
+	margin-top: 20px;
+	background-color: purple;
+	border-radius: 5px;
+	margin-left: 20px;
+	color: white;
+}
+
+.bottom1
+{
+	font-family: arail;
+	font-size: 15px;
+	margin-left: 20px;
+	color: white;
+	margin-top: 10px;
+}
+
+/*dummy
+.middle
+{
+	width:290px;
+	background-color: blue;
+	float: left;
+
+}
+
+
+.idea2
+{
+	width: 180px;
+	border-radius: 20px;
+	margin: 0 auto;
+}
+
+
+.bottom2
+{
+	font-family: arail;
+	font-size: 15px;
+	margin-left: 20px;
+	color: white;
+	margin-top: 10px;
+}
+
+
+
+.end
+{
+	width:290px;
+	background-color: green;
+	float: left;
+
+}
+
+
+.idea3
+{
+	width: 180px;
+	text-align: center;
+	border-radius: 20px;
+}
+
+
+.bottom3
+{
+	font-family: arail;
+	font-size: 15px;
+	margin-left: 20px;
+	margin-top: 10px;
+	color: white;
+}
+
+*/
+
+
+/*section 6 */
+/*section 6 */
+/*section 6 */
+/*section 6 */
+/*section 6 */
+
+
+
+
+footer
+{
+	width: 900px;
+	height: 60px;
+	margin-top: 20px;
+	background-color: black;
+	border-radius: 15px;
+	background-image: linear-gradient(#422551, #341745);
+	
+}
+
+
+.left
+{
+	float: left;
+	color: white;
+	margin: 20px 0 0 15px;
+	
+}
+
+
+.right a
+{
+	color: white;
+}
+
+
+.right
+{
+	float: right;
+	color: white;
+	margin: 20px 15px 0 0;
+}
+
+
+
